@@ -1,4 +1,8 @@
-# PixWidget
+<div align="center">
+  <img src="https://i.imgur.com/PwaTa7J.png" height="125"/>
+  <h1>PixWidget</h1>
+</div>
+
 🌄 PixWidget is the ultimate photo companion for your iPhone. With its easy-to-use widgets, you can add a touch of fun to your Home screen by displaying new, random, copyright-free images based on your request. You can change the image update frequency to suit your needs and preferences, and with just one tap, save the images you love to your photo library. Whether you need inspiration, entertainment, or simply a daily dose of beautiful images, PixWidget has got you covered.
 ## Download
 [<img src="https://i.imgur.com/o6F2emJ.png" height="52"/>](https://apps.apple.com/app/id6443885052)
