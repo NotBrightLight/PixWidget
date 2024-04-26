@@ -1,0 +1,7 @@
+// MARK: - Widgets
+
+/* Random Image */
+"widgets.widgetName" = "Случайная картинка";
+
+/* Displays a random image for your theme. */
+"widgets.widgetDescription" = "Показывает случайную картинку по указанной тематике.";

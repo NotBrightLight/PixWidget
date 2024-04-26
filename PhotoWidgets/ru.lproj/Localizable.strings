@@ -1,0 +1,118 @@
+// MARK: - General
+
+/* OK */
+"OK" = "OK";
+
+// MARK: - Time Intervals
+
+/* 5 minutes */
+"5min" = "5 минут";
+
+/* 10 minutes */
+"10min" = "10 минут";
+
+/* 15 minutes */
+"15min" = "15 минут";
+
+/* 30 minutes */
+"30min" = "30 минут";
+
+/* 1 hour */
+"1h" = "1 час";
+
+/* 2 hours */
+"2h" = "2 часа";
+
+/* 4 hours */
+"4h" = "4 часа";
+
+/* 6 hours */
+"6h" = "6 часов";
+
+/* 12 hours */
+"12h" = "12 часов";
+
+/* 1 day */
+"1d" = "1 день";
+
+// MARK: - Tab Bar
+
+/* instruction */
+"tab.instruction" = "Инструкция";
+
+/* settings */
+"tab.settings" = "Настройки";
+
+// MARK: - Settings' strings
+
+/* refresh all widgets */
+"settings.button.refreshAll" = "Обновить все виджеты";
+
+/* refresh interval of the widgets */
+"settings.header.refreshInterval" = "Интервал обновления виджетов";
+
+/* refresh Interval */
+"settings.picker.refreshInterval" = "Обновлять через";
+
+// MARK: - Instructions
+
+/* instruction 1 title */
+"instructions.1.title" = "1. Добавь виджет на домашний экран";
+
+/* instruction 1 text */
+"instructions.1.text" = "Нажми и удерживай пустое место на домашнем экране, пока иконки приложений не начнут трястись. Затем нажми \"+\" в верхнем левом углу.";
+
+/* instruction 2 title */
+"instructions.2.title" = "2. Найди приложение";
+
+/* instruction 2 text */
+"instructions.2.text" = "Найди приложение PixWidget и выбери его.";
+
+/* instruction 3 title */
+"instructions.3.title" = "3. Выбери размер виджета";
+
+/* instruction 3 text */
+"instructions.3.text" = "Выбери размер виджета, затем нажми \"Добавить виджет\".";
+
+/* instruction 4 title */
+"instructions.4.title" = "4. Введи тематику виджета";
+
+/* instruction 4 text */
+"instructions.4.text" = "Нажми и удерживай виджет на домашнем экране, затем выбери \"Изменить виджет\". В поле \"Topic\" введи свой запрос.";
+
+/* instruction 5 title */
+"instructions.5.title" = "5. Наслаждайся виджетом";
+
+/* instruction 5 text */
+"instructions.5.text" = "Виджет будет автоматически обновлять картинки.";
+
+/* instruction 6 title */
+"instructions.6.title" = "6. Сохрани понравившуюся картинку";
+
+/* instruction 6 text */
+"instructions.6.text" = "Нажми на виджет и сохрани картинку, которая тебе понравилась.";
+
+/* instruction 7 title */
+"instructions.7.title" = "7. Измени интервал обновлений";
+
+/* instruction 7 text */
+"instructions.7.text" = "Интервал обновления виджетов можно изменить в настройках.";
+
+// MARK: - Saving image
+
+/* loading image... */
+"saveImg.loading" = "Загрузка...";
+
+/* save to Photos */
+"saveImg.save" = "Скачать";
+
+/* saved */
+"saveImg.saved" = "Готово";
+
+// MARK: - Errors
+
+/* failed to load image */
+"error.loadImage" = "Не удалось загрузить картинку";
+
+/* failed to save image */
+"error.saveImage" = "Не удалось сохранить картинку";

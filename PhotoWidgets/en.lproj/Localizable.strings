@@ -1,0 +1,118 @@
+// MARK: - General
+
+/* OK */
+"OK" = "OK";
+
+// MARK: - Time Intervals
+
+/* 5 minutes */
+"5min" = "5 minutes";
+
+/* 10 minutes */
+"10min" = "10 minutes";
+
+/* 15 minutes */
+"15min" = "15 minutes";
+
+/* 30 minutes */
+"30min" = "30 minutes";
+
+/* 1 hour */
+"1h" = "1 hour";
+
+/* 2 hours */
+"2h" = "2 hours";
+
+/* 4 hours */
+"4h" = "4 hours";
+
+/* 6 hours */
+"6h" = "6 hours";
+
+/* 12 hours */
+"12h" = "12 hours";
+
+/* 1 day */
+"1d" = "1 day";
+
+// MARK: - Tab Bar
+
+/* instruction */
+"tab.instruction" = "Instruction";
+
+/* settings */
+"tab.settings" = "Settings";
+
+// MARK: - Settings' strings
+
+/* refresh all widgets */
+"settings.button.refreshAll" = "Refresh all widgets";
+
+/* refresh interval of the widgets */
+"settings.header.refreshInterval" = "Widgets refresh interval";
+
+/* refresh Interval */
+"settings.picker.refreshInterval" = "Refresh Interval";
+
+// MARK: - Instructions
+
+/* instruction 1 title */
+"instructions.1.title" = "1. Add a widget to your home screen";
+
+/* instruction 1 text */
+"instructions.1.text" = "Press and hold an empty space on your home screen until the app icons start shaking. Then, tap the \"+\" in the top left corner.";
+
+/* instruction 2 title */
+"instructions.2.title" = "2. Find the app";
+
+/* instruction 2 text */
+"instructions.2.text" = "Locate the PixWidget app and select it.";
+
+/* instruction 3 title */
+"instructions.3.title" = "3. Choose widget size";
+
+/* instruction 3 text */
+"instructions.3.text" = "Choose the widget size, then tap \"Add Widget\".";
+
+/* instruction 4 title */
+"instructions.4.title" = "4. Enter widget topic";
+
+/* instruction 4 text */
+"instructions.4.text" = "Press and hold the widget on your home screen, then select \"Edit Widget\". Enter your query in the \"Topic\" field.";
+
+/* instruction 5 title */
+"instructions.5.title" = "5. Enjoy the widget";
+
+/* instruction 5 text */
+"instructions.5.text" = "The widget will automatically update images.";
+
+/* instruction 6 title */
+"instructions.6.title" = "6. Save the image you like";
+
+/* instruction 6 text */
+"instructions.6.text" = "Tap the widget and download your favourite picture.";
+
+/* instruction 7 title */
+"instructions.7.title" = "7. Adjust refresh interval";
+
+/* instruction 7 text */
+"instructions.7.text" = "You can change the refresh interval of widgets in Settings.";
+
+// MARK: - Saving image
+
+/* loading image... */
+"saveImg.loading" = "Loading image...";
+
+/* save to Photos */
+"saveImg.save" = "Save to Photos";
+
+/* saved */
+"saveImg.saved" = "Saved";
+
+// MARK: - Errors
+
+/* failed to load image */
+"error.loadImage" = "Failed to load image";
+
+/* failed to save image */
+"error.saveImage" = "Failed to save image";
